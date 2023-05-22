@@ -8,3 +8,4 @@ next.config.json
 tsconfig.json
 next-env.d.ts
 yarn.lock
+README.md
