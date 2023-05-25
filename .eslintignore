@@ -1,4 +1,5 @@
-/node_modules
-README.md
 .git
 .gitignore
+documentation
+node_modules
+README.md
